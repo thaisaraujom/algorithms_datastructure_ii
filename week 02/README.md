@@ -8,8 +8,8 @@ The original solution is part of _Python for Data Engineering: Fundamentals Part
 My solution can be found [here](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%2002/Guided_Project_OOP.ipynb).
 
 #### Download Datasets
-- *Google Store:* [link](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv)
-- *Apple Store:* [link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv)
+- **Google Store:** [link](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv)
+- **Apple Store:** [link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv)
 
 #### How to run
 1. Clone this repository
