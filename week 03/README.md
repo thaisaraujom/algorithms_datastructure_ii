@@ -2,7 +2,7 @@
 This project is an algorithm implemented using Python dictionary to check if the sum of two values results in the required value.
 
 #### Analysis
-An analysis of the complexity of algorithms was performed, in which one that uses array and another that uses Python dictionary. It can be found [here](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%3003/).
+An analysis of the complexity of algorithms was performed, in which one that uses array and another that uses Python dictionary. It can be found [here](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%2003/analysis_twonumbersum.ipynb).
 
 #### How to run
 1. Clone this repository
