@@ -9,7 +9,7 @@ An analysis of the complexity of algorithms was performed, in which one that use
    ```sh
    git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git
    ```
-2. Import to [Google Colab](https://colab.research.google.com/) the files [twonumbersum](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%3003/) and [analysis_twonumbersum](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%3003/)
+2. Import to [Google Colab](https://colab.research.google.com/) the files [twonumbersum](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%2003/twonumbersum.ipynb) and [analysis_twonumbersum](https://github.com/thaisaraujo2000/algorithms_datastructure_ii/blob/main/week%2003/analysis_twonumbersum.ipynb)
 
 #### Reference
 [Ivanovitch's repository](https://github.com/ivanovitchm/datastructure)
