@@ -1,5 +1,5 @@
-# Week 04 - Guided Project Solution: Building Fast Queries on a CSV
-This project aims to carry out an adaptation of the guided project _"Building Fast Queries on a CSV"_ from the Algorithms Complexity course on [Dataquest plataform](https://www.dataquest.io/). Thus, using the dataset _"The Reddit Climate Change Dataset"_, three functions were created with two different implementations, in order to compare the performance of each one of them. Those three main functions are:
+# Week 04 - Guided Project: Building Fast Queries on a CSV
+This project aims to carry out an adaptation of the guided project _"Building Fast Queries on a CSV"_ from the Algorithms Complexity course on [Dataquest plataform](https://www.dataquest.io/). Thus, using the _"The Reddit Climate Change"_ dataset, three functions were created with two different implementations, in order to compare the performance of each one of them. Those three main functions are:
 
 1. Given an id of a message on Reddit, return all information about the message;
 2. Given a lower and upper bound of the "sentiment" column, return all messages with sentiment values between the lower and upper bounds;
@@ -39,5 +39,8 @@ To compare the performance of both approaches, it was created a list with 10000 
    ```sh
    git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git
    ```
-2. Import to [Google Colab](https://colab.research.google.com/) the file `guided_building_fast_queries_on_a_csv.ipynb`
+2. Import to [Google Colab](https://colab.research.google.com/) the `guided_building_fast_queries_on_a_csv.ipynb` file 
 3. Create a folder in Google Drive and add the `The Reddit Climate Change` Dataset
+
+## Reference
+[Guided Project Solution: Building Fast Queries on a CSV](https://github.com/dataquestio/solutions/blob/master/Mission481Solution.ipynb)
