@@ -40,4 +40,4 @@ To compare the performance of both approaches, it was created a list with 10000 
    git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git
    ```
 2. Import to [Google Colab](https://colab.research.google.com/) the file `guided_building_fast_queries_on_a_csv.ipynb`
-3. Create a folder in Google Drive and add the `The Reddit Climate Change` Dataset. 
+3. Create a folder in Google Drive and add the `The Reddit Climate Change` Dataset
