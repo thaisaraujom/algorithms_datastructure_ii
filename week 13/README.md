@@ -146,7 +146,7 @@ By analyzing the network, it was possible to see that it has 106 layers. Therefo
 
 ## Network Visualization
 
-It is also possible to get other ways to visualize our network through tools such as [Gephi](https://gephi.org/), with the `SigmaExporter` plugin, [Retina](https://ouestware.gitlab.io/retina/beta/), a plugin of Gephi tool, and [Gephisto](https://jacomyma.github.io/gephisto/). The productions of these tools will be explored separately for each tool.
+It is also possible to get other ways to visualize our network through tools such as [Gephi](https://gephi.org/), with the `SigmaExporter` plugin, [Retina](https://ouestware.gitlab.io/retina/beta/), and [Gephisto](https://jacomyma.github.io/gephisto/). The productions of these tools will be explored separately for each tool.
 
 ### Visualization using Gephi and SigmaExporter
 
