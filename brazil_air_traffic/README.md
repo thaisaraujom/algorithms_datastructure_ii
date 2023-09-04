@@ -91,7 +91,7 @@ City4 (Anápolis) -> City5 (Ribeirão Preto)     | 1
 1. Clone this repository
 
 ```
-git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git
+git clone https://github.com/thaisaraujom/algorithms_datastructure_ii.git
 ```
 
 3. Import to Google Colab the file `flights_brazil.ipynb`
