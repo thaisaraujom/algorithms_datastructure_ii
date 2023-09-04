@@ -14,7 +14,7 @@ My solution can be found [here](https://github.com/thaisaraujom/algorithms_datas
 ## How to run ▶️
 1. Clone this repository
    ```sh
-   git clone https://github.com/thaisaraujo2000/algorithms_datastructure_ii.git
+   git clone https://github.com/thaisaraujom/algorithms_datastructure_ii.git
    ```
 2. Import to [Google Colab](https://colab.research.google.com/) the file [Guided_Project_OOP.ipynb](https://github.com/thaisaraujom/algorithms_datastructure_ii/blob/main/profitable_app_profiles/Guided_Project_OOP.ipynb)
 3. Add the required datasets on [Google Colab](https://colab.research.google.com/)
